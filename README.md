@@ -1,0 +1,1 @@
+# mattermost-giphy-integration
